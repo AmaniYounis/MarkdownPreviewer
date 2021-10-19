@@ -1,0 +1,100 @@
+$lightGrey : rgba(247, 249, 248, 0.7);
+
+.App{
+  background: url("background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+
+#mainHeader{
+
+  font-family: 'Major Mono Display', monospace;
+
+}
+#subHeader{
+
+  font-family: 'Zilla Slab Highlight', cursive;
+  color:#041720;
+}
+#preview , #editor{
+  width:90%;
+  height:73vh;
+  overflow: auto;
+  border:1px solid grey;
+  margin: auto;
+  background-color: $lightGrey;
+  border-width: 0px;
+}
+#preview{
+  overflow-x: visible;
+}
+textarea{
+  resize: none;
+  font-size: larger;
+
+}
+
+#div1 , #div2{
+  width:50%;
+  height: 85vh;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#footer{
+  left: 80%;
+  bottom: 1%;
+  font-size: x-small;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 2px grey;
+  cursor: pointer;
+
+}
+
+::-webkit-scrollbar-thumb {
+  background: grey;
+  border-radius: 10px;
+
+}
+
+@media screen and (max-width: 500px) {
+
+  .App{
+    width: 100%;
+    height: 100%;
+    
+    
+  }
+  #mainHeader ,#subHeader{
+    font-size:larger;
+  }
+  .flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  #div1, #div2{
+    width: 95%;
+    height:70vh;
+    margin-left: 7px;
+  }
+  #preview,#editor{
+    height:60vh;
+    overflow-x: hidden;
+
+  }
+
+}
