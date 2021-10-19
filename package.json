@@ -2,7 +2,7 @@
   "name": "markdown-previewer",
   "homepage": "https://amaniyounis.github.io/MarkdownPreviewer",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/jest-dom": "^4.2.4",
