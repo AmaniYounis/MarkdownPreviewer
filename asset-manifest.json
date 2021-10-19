@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MarkdownPreviewer/static/css/main.93811926.chunk.css",
+    "main.js": "/MarkdownPreviewer/static/js/main.5fd980ab.chunk.js",
+    "main.js.map": "/MarkdownPreviewer/static/js/main.5fd980ab.chunk.js.map",
+    "runtime-main.js": "/MarkdownPreviewer/static/js/runtime-main.a779aac8.js",
+    "runtime-main.js.map": "/MarkdownPreviewer/static/js/runtime-main.a779aac8.js.map",
+    "static/css/2.f2512455.chunk.css": "/MarkdownPreviewer/static/css/2.f2512455.chunk.css",
+    "static/js/2.d4a19ce6.chunk.js": "/MarkdownPreviewer/static/js/2.d4a19ce6.chunk.js",
+    "static/js/2.d4a19ce6.chunk.js.map": "/MarkdownPreviewer/static/js/2.d4a19ce6.chunk.js.map",
+    "index.html": "/MarkdownPreviewer/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/MarkdownPreviewer/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.93811926.chunk.css.map": "/MarkdownPreviewer/static/css/main.93811926.chunk.css.map",
+    "static/js/2.d4a19ce6.chunk.js.LICENSE.txt": "/MarkdownPreviewer/static/js/2.d4a19ce6.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/MarkdownPreviewer/static/media/background.1190e784.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a779aac8.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.d4a19ce6.chunk.js",
+    "static/css/main.93811926.chunk.css",
+    "static/js/main.5fd980ab.chunk.js"
+  ]
+}
