@@ -1,6 +1,6 @@
 {
   "name": "markdown-previewer",
-  "homepage": "https://amaniyounis.github.io/MarkdownPreviewer",
+  "homepage": "https://amaniyounis.github.io/MarkdownPreviewer/public/index.html",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
