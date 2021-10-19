@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: public/index.html
 ---
 
 This project was done by Amani Younis for learning purposes and bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
